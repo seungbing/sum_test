@@ -6,5 +6,6 @@ int main() {
 	scanf(%d",&n);
 	int s = sum(n);
 	printf("sum = %d/n",s);
+}
 
 
